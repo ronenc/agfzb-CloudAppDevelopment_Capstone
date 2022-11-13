@@ -27,6 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
+# Add Allow hosts here
 ALLOWED_HOSTS = ["localhost"]
 
 
